@@ -1,0 +1,10 @@
+Penselen-map van DraveStudio
+=============================
+Hier worden je eigen geïmporteerde penselen bewaard (PNG-bestanden).
+
+Zelf importeren kan in de app: paneel links -> Penseel -> Importeren...
+- Een PNG met transparantie: de doorzichtigheid bepaalt de penseelvorm.
+- Een PNG zonder transparantie: donkere delen = vol, lichte delen = niets.
+
+Je kunt hier ook handmatig PNG's neerzetten; ze verschijnen na een herstart
+in de penseel-keuzelijst (de bestandsnaam wordt de penseelnaam).
